@@ -1,0 +1,14 @@
+d:\code\C#\collections\bin\Debug\net8.0\collections.exe
+d:\code\C#\collections\bin\Debug\net8.0\collections.deps.json
+d:\code\C#\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+d:\code\C#\collections\bin\Debug\net8.0\collections.dll
+d:\code\C#\collections\bin\Debug\net8.0\collections.pdb
+d:\code\C#\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+d:\code\C#\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+d:\code\C#\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+d:\code\C#\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+d:\code\C#\collections\obj\Debug\net8.0\collections.dll
+d:\code\C#\collections\obj\Debug\net8.0\refint\collections.dll
+d:\code\C#\collections\obj\Debug\net8.0\collections.pdb
+d:\code\C#\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+d:\code\C#\collections\obj\Debug\net8.0\ref\collections.dll

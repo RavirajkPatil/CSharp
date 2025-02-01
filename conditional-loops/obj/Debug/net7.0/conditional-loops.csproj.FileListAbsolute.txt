@@ -1,0 +1,15 @@
+D:\code\C#\conditional-loops\bin\Debug\net7.0\conditional-loops.exe
+D:\code\C#\conditional-loops\bin\Debug\net7.0\conditional-loops.deps.json
+D:\code\C#\conditional-loops\bin\Debug\net7.0\conditional-loops.runtimeconfig.json
+D:\code\C#\conditional-loops\bin\Debug\net7.0\conditional-loops.dll
+D:\code\C#\conditional-loops\bin\Debug\net7.0\conditional-loops.pdb
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.csproj.AssemblyReference.cache
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.AssemblyInfoInputs.cache
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.AssemblyInfo.cs
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.csproj.CoreCompileInputs.cache
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.dll
+D:\code\C#\conditional-loops\obj\Debug\net7.0\refint\conditional-loops.dll
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.pdb
+D:\code\C#\conditional-loops\obj\Debug\net7.0\conditional-loops.genruntimeconfig.cache
+D:\code\C#\conditional-loops\obj\Debug\net7.0\ref\conditional-loops.dll

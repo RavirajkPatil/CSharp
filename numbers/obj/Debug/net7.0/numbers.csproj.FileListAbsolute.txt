@@ -1,0 +1,15 @@
+d:\code\C#\numbers\bin\Debug\net7.0\numbers.exe
+d:\code\C#\numbers\bin\Debug\net7.0\numbers.deps.json
+d:\code\C#\numbers\bin\Debug\net7.0\numbers.runtimeconfig.json
+d:\code\C#\numbers\bin\Debug\net7.0\numbers.dll
+d:\code\C#\numbers\bin\Debug\net7.0\numbers.pdb
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.csproj.AssemblyReference.cache
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.AssemblyInfoInputs.cache
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.AssemblyInfo.cs
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.csproj.CoreCompileInputs.cache
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.dll
+d:\code\C#\numbers\obj\Debug\net7.0\refint\numbers.dll
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.pdb
+d:\code\C#\numbers\obj\Debug\net7.0\numbers.genruntimeconfig.cache
+d:\code\C#\numbers\obj\Debug\net7.0\ref\numbers.dll
